@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-en-javascript---landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page de ejemplo realizada como resultado del Curso de Asincronismo de Platzi.",
+  "main": "src/assets/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-Miguel-v/Landing-Page.git"
+  },
+  "keywords": ["javascript", "html", "css", "landing-page", "platzi-course"],
+  "author": "Miguel Velásquez <vmiguel.xy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v-Miguel-v/Landing-Page/issues"
+  },
+  "homepage": "https://github.com/v-Miguel-v/Landing-Page#readme"
+}
