@@ -1,0 +1,19 @@
+@media (max-width: 470px) {
+	.youtube-embed-player {
+		width: 90vw;
+		height: 51.3vw;
+	}
+}
+
+@media (max-width: 639px) {
+	.youtube-embed-player {
+		width: 422px;
+		height: 240px;
+	}
+}
+
+@media (max-width: 1023px) {
+	.youtube-embed-player {
+		height: 190px;
+	}
+}
